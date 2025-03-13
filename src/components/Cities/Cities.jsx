@@ -7,7 +7,7 @@ const Cities = () => {
   return (
     <div className="cities">
       <h1>
-        Popular localities in and around <span>Ahmedabad</span>
+        Popular localities in and around <span>Bhimavaram</span>
       </h1>
       <div className="cityContainer">
         <div className="city">
@@ -22,7 +22,7 @@ const Cities = () => {
         <div className="city">
           <div className="cityLeft">
             <h3>Setellite</h3>
-            <span>336 Places</span>
+            <span>339 Places</span>
           </div>
           <div className="icon">
             <ChevronRightIcon />
